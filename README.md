@@ -137,7 +137,7 @@ Once you have your key, you can add it to the app where prompted.
 *   This open-source app is provided 'as-is' without any warranty, express or implied. Use at your own discretion.
 
 If you find this app useful, please consider supporting its developer: [Buy Me a Coffee](https://www.buymeacoffee.com/oxproxion) ☕
-
+ 
 ##  License
 
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
